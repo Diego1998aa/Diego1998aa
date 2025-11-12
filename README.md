@@ -29,8 +29,8 @@ Durante mi formación, trabajé en proyectos que combinan **IA, procesamiento de
 ### 🗨️ Integrity – Chatbot Educativo (Rasa, Python)
 Desarrollo de un asistente virtual para admisión y becas del **CFT Estatal de Los Ríos**, orientado a mejorar la atención y equidad digital.
 
-### 💻 Sistema de Préstamos de Notebooks (Power Apps + Excel)
-Aplicación para la gestión y trazabilidad de equipos institucionales en entornos educativos.
+### 💻 Web Oma Wust
+Aplicación para la gestión de pedidos, ofrecimiento de productos alimenticios, atencion al cliente.
 
 ### 🌐 UrbanZync – Sitio Web Profesional (React, CSS, Swiper.js)
 Desarrollo de un sitio web moderno y responsivo para una empresa local, con enfoque en experiencia de usuario y optimización visual.
